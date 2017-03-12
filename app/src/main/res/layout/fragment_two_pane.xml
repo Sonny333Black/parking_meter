@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/two_pane_container"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/todo_fragment_container"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height ="0dp" />
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/log_fragment_container"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height ="0dp"/>
+
+</LinearLayout>

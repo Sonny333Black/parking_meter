@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HFragDebugLog</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="todos">Todos: 1. 2. 3. ..., </string>
+    <string name="details">Details: 1. 2. 3. ..., </string>
+    <string name="activity_view">Activity TextView: </string>
+    <string name="action_todo">Todos Fragment</string>
+    <string name="action_details">Details Fragment</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="two_pane">twoPane</string>
+    <string name="parkschein">Parkschein</string>
+    <string name="log_ausgabe">Log Ausgabe</string>
+</resources>
